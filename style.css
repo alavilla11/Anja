@@ -1,0 +1,20 @@
+body { 
+  font-family: serif;
+  margin: 10px; 
+  background-color: E7D7D4;
+  border: 2px solid black;
+  border-radius: 8px;
+  padding: 5px;
+
+} 
+ 
+p { 
+  line-height: 1.5;
+} 
+ 
+h1{ 
+  font-family: Georgia; 
+  text-align: center; 
+}
+
+
